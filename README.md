@@ -4,8 +4,8 @@ Discription
 ##TITLR# Todo List#
  mengesha debash_______________1260________________Project manager and implementer
 Biruk Kindu________________1154________________Project manager and implementer
-----------------------------------------------implementer
-Loza Teshome-------------1242--------------------UI Designer
+Lielitework Birhanu ----------1241------------------------------------implementer 
+---------------------------------UI Designer
 -----------------------------REquirment engineering
 _______________Tester and UI Designer
 
