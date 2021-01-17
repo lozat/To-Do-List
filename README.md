@@ -5,7 +5,7 @@ Discription
  mengesha debash_______________1260________________Project manager and implementer
 Biruk Kindu________________1154________________Project manager and implementer
 Lielitework Birhanu ----------1241------------------------------------implementer 
----------------------------------UI Designer
+Loza Teshome-------------1242--------------------UI Designer
 -----------------------------REquirment engineering
 _______________Tester and UI Designer
 
